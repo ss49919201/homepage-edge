@@ -1,1 +1,8 @@
-# homepage-edge
+```
+npm install
+npm run dev
+```
+
+```
+npm run deploy
+```
